@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KnBody:jar2">
+    <output-path>C:/tmp/knbody/</output-path>
+    <root id="archive" name="KnBody.jar">
+      <element id="module-output" name="KnBody" />
+      <element id="extracted-dir" path="C:/Java/gson-2.8.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-test.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk8.jar" path-in-jar="/" />
+      <element id="file-copy" path="C:/Java/gson-2.8.5.jar" />
+      <element id="library" level="project" name="KotlinJavaRuntime" />
+    </root>
+  </artifact>
+</component>
